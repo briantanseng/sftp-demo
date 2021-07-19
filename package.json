@@ -1,0 +1,14 @@
+{
+  "name": "sftp-demo",
+  "version": "1.0.0",
+  "description": "A demo app that will upload a file to an SFTP server",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "Brian Tan Seng",
+  "license": "MIT",
+  "dependencies": {
+    "ssh2-sftp-client": "^7.0.0"
+  }
+}
